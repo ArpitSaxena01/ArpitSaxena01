@@ -1,0 +1,34 @@
+📊 Global AI Index: Measuring AI Leadership and Maturity Across Countries
+
+I recently worked on a Power BI project using the Global AI Index dataset from Kaggle to analyze global AI leadership and understand what drives AI maturity across countries.
+
+🔍What I Did
+
+✔ Built an interactive Power BI dashboard covering 62 countries.
+✔ Analyzed AI performance across three core pillars: Implementation, Innovation, and Investment.
+✔ Studied key AI success drivers: talent, infrastructure, research, government strategy, and commercial adoption.
+✔ Evaluated the impact of region, income level, and political systems on AI performance.
+✔ Segmented countries into AI maturity groups: Power Players, Traditional Champions, Rising Stars, Waking Up, and Nascent.
+
+🔍 Key Highlights:
+
+📌AI leadership is driven more by implementation than innovation alone :
+►Top countries consistently show stronger AI implementation capabilities than just research or investment.
+
+📌Balanced ecosystems perform best : 
+►Countries with both strong government strategy and commercial adoption outperform those focusing on only one area.
+
+📌Economic and political factors matter :
+►High-income regions and democratic systems lead in AI performance, while lower-income regions and restrictive regimes lag behind.
+
+📌AI maturity is highly uneven globally : 
+►A small group of countries dominate AI readiness, while most are still developing basic AI capabilities.
+
+📌Rising Stars show strong growth potential :
+►Countries like Israel, Singapore, and South Korea are close to joining the top AI leaders.
+
+📌Waking Up countries show early progress in AI but lack consistency :
+►Some countries in this group are close to becoming Rising Stars, while others are still building basic AI capabilities.
+
+💡This project helped me strengthen my skills in Power BI, data modeling, DAX, and data storytelling, while improving my ability to turn complex datasets into clear, business-focused insights.
+
