@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @ArpitSaxena01
-- 👀 I’m interested in pursuing a career in Data Science.
-- 🌱 I have completed my post graduation in Statistics from Amity University and a Diploma in Data Science from IIT Madras.
+- 🌱 I have currently worked as a Business Analyst at OYO Hotels and Homes Private Limited and hold a post-graduate degree in Statistics from Amity University, along with a diploma in Data Science from the Indian Institute of Technology, Madras.
